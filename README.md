@@ -8,7 +8,7 @@ Google Analytics allows e-commerce and website administrators understand the eff
 
 # Data Visualization Samples
 ### Abandoned cart funnel visualization
-Funnel visualizations are helpful in tracking shopping cart abandonment. We can see that the abandoned cart rate is 18% during this quarter 
+Funnel visualizations are helpful in tracking shopping cart abandonment. We can see that the abandoned cart rate is 18% during this quarter and the biggest drop off point is during the checkout process. 
 ![abandoned cart funnel](https://github.com/linayang-io/python-ga-eda-worksample/blob/master/lyang_funnel_viz_demo.gif)
 ### Box plot of product price offerings
 This box plot shows the distribution of product prices on the Google Merchandise Store by product category. It shows outliers in pricing by product category as well as the median average price of each product offering. 
